@@ -35,6 +35,7 @@ public class FilePathConfig {
         } else {
             properties.setImageFilePath(IMAGE_FILE_PATH);
             properties.setSavePath(SAVE_PATH);
+            log.info(properties);
         }
         return properties;
     }

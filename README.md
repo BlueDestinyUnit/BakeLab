@@ -1,4 +1,4 @@
-## 링크 -> [http:/bakelab.jshlab.store](http:/bakelab.jshlab.store)
+## 링크 -> [http:/bakelab.jshlab.shop](http:/bakelab.jshlab.shop)
 
 ## 스토리
 ![이미지](https://github.com/BlueDestinyUnit/BlueDestinyUnit/blob/main/BakeLab/0002.jpg)
